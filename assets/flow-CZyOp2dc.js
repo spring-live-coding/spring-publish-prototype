@@ -1,0 +1,1 @@
+import{c as e,j as t,R as o}from"./tokenStyle-D7xRVPf5.js";import{F as r}from"./FlowPreview-CH4AsfCG.js";import"./cn-BQHNewu7.js";import"./PublishControl-BxkgMfLj.js";import"./lifecycle-B0G79meA.js";import"./QuickUpdatePanel-CvavVLCY.js";document.documentElement.classList.add("light");e(document.getElementById("root")).render(t.jsx(o.StrictMode,{children:t.jsx(r,{})}));
